@@ -1,6 +1,6 @@
 # codex-ux-skills
 
-Neutral, reusable Codex skills for UX writing, form UX auditing, and WCAG 2.1 AA web UI audits.
+Reusable Codex UX skills for email, forms, and WCAG audits across product and web workflows.
 
 ## Included skills
 
