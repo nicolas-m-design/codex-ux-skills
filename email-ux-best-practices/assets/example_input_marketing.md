@@ -24,4 +24,4 @@ Click here to register.
 We will also talk about pricing strategy, onboarding, roadmap planning, community growth, and much more.
 
 Best,
-Dialogue Team
+Product Research Team

@@ -29,7 +29,7 @@ Join our live workshop next week to learn a lightweight feedback loop:
 - Turn signals into prioritized decisions
 
 Primary action: Reserve your seat
-Link: https://dialogue.cx/workshop
+Link: https://example.com/workshop
 
 What you will get:
 - A repeatable weekly study format
@@ -37,7 +37,7 @@ What you will get:
 - A send-ready checklist for your next study
 
 If this is not relevant, you can unsubscribe anytime.
-Dialogue.cx, Bahnhofstrasse 10, 8001 Zurich
+Example Company, 123 Example Street, Example City
 
 ## HTML-lite Version (Optional)
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f6f7f9;padding:24px 0;">
@@ -48,7 +48,7 @@ Dialogue.cx, Bahnhofstrasse 10, 8001 Zurich
         <tr><td style="font-size:16px;padding-bottom:12px;">Join our live workshop and learn a lightweight do-vs-say feedback loop.</td></tr>
         <tr>
           <td style="padding:16px 0;">
-            <a href="https://dialogue.cx/workshop" style="display:inline-block;background:#0b5fff;color:#ffffff;text-decoration:none;padding:12px 18px;border-radius:4px;font-weight:700;">Reserve your seat</a>
+            <a href="https://example.com/workshop" style="display:inline-block;background:#0b5fff;color:#ffffff;text-decoration:none;padding:12px 18px;border-radius:4px;font-weight:700;">Reserve your seat</a>
           </td>
         </tr>
       </table>

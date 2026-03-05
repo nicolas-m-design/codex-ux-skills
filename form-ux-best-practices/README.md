@@ -19,10 +19,10 @@ Use $form-ux-best-practices on this signup form spec and give me P0/P1/P2 issues
 
 ```bash
 # 1) Validate skill structure
-python3 /Users/clawbot/.codex/skills/.system/skill-creator/scripts/quick_validate.py /Users/clawbot/Sites/Dialogue/form-ux-best-practices
+python3 $CODEX_HOME/skills/.system/skill-creator/scripts/quick_validate.py <SKILLS_REPO_PATH>/form-ux-best-practices
 
 # 2) Run static form audit on a sample HTML file
-python3 /Users/clawbot/Sites/Dialogue/form-ux-best-practices/scripts/form_audit.py /tmp/form_sample.html
+python3 <SKILLS_REPO_PATH>/form-ux-best-practices/scripts/form_audit.py /tmp/form_sample.html
 ```
 
 ## Install via Codex `$skill-installer` (GitHub directory URL)

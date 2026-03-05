@@ -28,7 +28,7 @@
 - Fix recommendation: Add recognizable sender context.
 - Exact snippet to change:
   - Problematic: "Hi,"
-  - Replacement: "Hi,\n\nYou requested a password reset for your Dialogue account."
+  - Replacement: "Hi,\n\nYou requested a password reset for your account."
 
 # CTA & Link Issues
 - Primary CTA text should be explicit: "Reset password".
