@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Design System Specs"
+  short_description: "Audit design-system docs and specs"
+  default_prompt: "Use $review-design-system-specs to audit our design-system docs, tokens, and component specs, then return a remediation plan without rewriting files."
