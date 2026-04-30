@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Design Simplicity"
+  short_description: "Simplify product experiences without losing utility"
+  default_prompt: "Use $product-design-simplicity to review this product experience and propose simpler, clearer design changes."

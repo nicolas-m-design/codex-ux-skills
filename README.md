@@ -1,11 +1,12 @@
 # codex-ux-skills
 
-Reusable Codex UX skills for email, forms, design-system spec review, and WCAG audits across product and web workflows.
+Reusable Codex UX skills for email, forms, product design simplicity, design-system spec review, and WCAG audits across product and web workflows.
 
 ## Included skills
 
 - `email-ux-best-practices`: review and improve product email copy and structure
 - `form-ux-best-practices`: audit and rewrite form UX, validation, and accessibility
+- `product-design-simplicity`: simplify product experiences without losing utility, trust, or control
 - `review-design-system-specs`: audit design-system docs, tokens, specs, and handoff coverage
 - `wcag-21-aa-web-ui-audit`: run accessibility audits and generate remediation outputs
 
